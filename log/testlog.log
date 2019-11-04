@@ -145,4 +145,15 @@
  2019-11-03 18:49:12,474 - inetBankingv1 -INFO - Entered the user name
  2019-11-03 18:49:12,614 - inetBankingv1 -INFO - Entered the password
  2019-11-03 18:49:13,284 - inetBankingv1 -INFO - Condition passed
+ 2019-11-03 22:35:01,966 - inetBankingv1 -INFO - Opening the URL
+ 2019-11-03 22:35:02,081 - inetBankingv1 -INFO - Entered the user name
+ 2019-11-03 22:35:02,163 - inetBankingv1 -INFO - Entered the password
+ 2019-11-03 22:35:02,838 - inetBankingv1 -INFO - Condition passed
+ 2019-11-04 09:52:42,015 - inetBankingv1 -INFO - Opening the URL
+ 2019-11-04 09:52:42,236 - inetBankingv1 -INFO - Entered the user name
+ 2019-11-04 09:52:42,577 - inetBankingv1 -INFO - Entered the password
+ 2019-11-04 09:52:43,359 - inetBankingv1 -INFO - Condition passed
+ 2019-11-04 09:52:52,784 - inetBankingv1 -INFO - User name is provided
+ 2019-11-04 09:52:52,874 - inetBankingv1 -INFO - Passsword is provided
+ 2019-11-04 09:52:57,587 - inetBankingv1 -INFO - providing customer details....
  
