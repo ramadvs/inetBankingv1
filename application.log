@@ -1,4 +1,4 @@
-2019-09-25 13:33:53,273  INFO [main] inetBankingV1:15 - Opening the URL
-2019-09-25 13:33:53,944  INFO [main] inetBankingV1:21 - Entered the username
-2019-09-25 13:33:54,054  INFO [main] inetBankingV1:25 - Entered the password
-2019-09-25 13:33:54,912  INFO [main] inetBankingV1:32 - Condition passed
+2019-10-02 23:30:07,411  INFO [main] inetBankingv1:15 - Opening the URL
+2019-10-02 23:30:07,633  INFO [main] inetBankingv1:21 - Entered the username
+2019-10-02 23:30:07,770  INFO [main] inetBankingv1:25 - Entered the password
+2019-10-02 23:30:09,220  INFO [main] inetBankingv1:32 - Condition passed

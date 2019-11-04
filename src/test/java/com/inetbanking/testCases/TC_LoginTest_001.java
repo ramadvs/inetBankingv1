@@ -1,5 +1,7 @@
 package com.inetbanking.testCases;
 
+import java.io.IOException;
+
 import org.testng.annotations.Test;
 
 import com.inetbanking.pageObjects.LoginPage;
@@ -9,7 +11,7 @@ import junit.framework.Assert;
 public class TC_LoginTest_001 extends BaseClass
 {
 	@Test
-	public void loginTest()
+	public void loginTest() throws IOException
 	{
 		
 		logger.info("Opening the URL");
@@ -18,7 +20,7 @@ public class TC_LoginTest_001 extends BaseClass
 		
 		lp.setUsername(username);
 		
-		logger.info("Entered the username");
+		logger.info("Entered the user name");
 		
 		lp.setPassword(password);
 		
@@ -33,6 +35,7 @@ public class TC_LoginTest_001 extends BaseClass
 		}
 		else
 		{
+			captureScreen(driver, "loginTest");
 		Assert.assertTrue(false);	
 		logger.info("Condition failed");
 		}

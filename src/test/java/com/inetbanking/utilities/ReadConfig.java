@@ -10,6 +10,8 @@ public class ReadConfig {
 	
 	Properties pro; //object for Properties class.
 	
+	//create constructor ReadConfig
+	
 	public ReadConfig()
 	{
 		File F1= new File("./configuration/config.properties"); // load config.properties file
